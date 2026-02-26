@@ -56,7 +56,7 @@ Trader-Profitability-Predictor/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Trader-Profitability-Predictor.git  
+git clone (https://github.com/aryan00756/trader-profit-prediction.git)  
 cd Trader-Profitability-Predictor  
 
 2. Create virtual environment
